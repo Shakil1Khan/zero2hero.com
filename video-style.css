@@ -1,0 +1,206 @@
+#fullpage{
+  margin:0 auto;
+  width:960px;
+  height:2100px;
+  border-radius: 12px;
+  border-top:5px solid red;
+  border-left:5px solid red;
+  border-right:5px solid red;
+  border-bottom:5px solid red;
+  background:#684E5D;
+}
+.cover{
+  border-bottom:2px solid red;
+}
+.nav{
+  width:960px;
+  height:147px;
+  margin-top:-4px;
+  margin-top:2px solid red;
+  background-color:#2CDE78;
+}
+.nav1{
+  border-top:0px solid red;
+  display:block;
+  overflow:hidden;
+  display:block;
+  float:left;
+}
+.head{
+  float:right;
+  margin-top:-10px;
+}
+.container-img{
+  float:right;
+  margin-top:-40px;
+  margin-bottom:40px;
+}
+.home-png{
+  border-top: 0px solid red;
+  border-right:3px solid red;
+  display:block;
+  overflow:hidden;
+  float:left;
+  margin-top:0px;
+  margin-right:100px;
+}
+.photo-png{
+  border-right:3px solid red;
+  display:block;
+  overflow:hidden;
+  float:left;
+  margin-top:0px;
+  margin-left:-100px;
+}
+.audio-png{
+  border-right:3px solid red;
+  display:block;
+  overflow:hidden;
+  float:left;
+  margin-top:0px;
+  margin-left:-0px;
+}
+.video-png{
+  border-right:3px solid red;
+  display:block;
+  overflow:hidden;
+  float:left;
+  margin-top:0px;
+  margin-left:0px;
+}
+.about-png{
+  border-right:3px solid red;
+  border-top: 0px solid red;
+  display:block;
+  overflow:hidden;
+  padding:0px;
+  float:left;
+  margin-top:0px;
+  margin-left:0px;
+}
+.contact-png{
+  padding-right:0px;
+  border-right:0px solid red;
+  margin-right:0px;
+  display:block;
+  float:right;
+  overflow:hidden;
+  margin-top:0px;
+  margin-left:0px;
+}
+.container-img{
+  vertical-align:center;
+  margin-top:-69px;
+  margin-bottom:4px;
+  border-top:2px solid red;
+  border-bottom:3px solid red;
+}
+
+
+
+
+.video_container{
+  color:#463B41;
+  width:960px;
+  height:1852px;
+  border-bottom: 2px solid red;
+}
+
+.video-1 {
+  float:right;
+  background-color:#000000;
+  border-top: 3px solid red;
+  border-left: 3px solid red;
+  border-bottom: 3px solid red;
+  border-right: 0px solid red;
+  margin-right: 0px;
+  margin-left:0px;
+  margin-top: 15px;
+  margin-bottom: 0px;
+  width: 478px;
+  height: 350px;
+}
+.video-2 {
+  float: right;
+  background-color: #000000;
+  border-top: 3px solid red;
+  border-left: 0px solid red;
+  border-bottom: 3px solid red;
+  border-right: 0px solid red;
+  margin-right: 0px;
+  margin-left: 0px;
+  margin-top: 15px;
+  margin-bottom: 0px;
+  width: 478px;
+  height: 350px;
+}
+.video-3 {
+  float: right;
+  background-color: #000000;
+  border-top: 3px solid red;
+  border-left: 3px solid red;
+  border-bottom: 3px solid red;
+  border-right: 0px solid red;
+  margin-right: 0px;
+  margin-left: 0px;
+  margin-top: 15px;
+  margin-bottom: 0px;
+  width: 478px;
+  height: 350px;
+}
+.video-4 {
+  float: right;
+  background-color: #000000;
+  border-top: 3px solid red;
+  border-left: 0px solid red;
+  border-bottom: 3px solid red;
+  border-right: 0px solid red;
+  margin-right: 0px;
+  margin-left: 0px;
+  margin-top: 15px;
+  margin-bottom: 0px;
+  width: 478px;
+  height: 350px;
+}
+.video-5 {
+  float: right;
+  background-color: #000000;
+  border-top: 3px solid red;
+  border-left: 3px solid red;
+  border-bottom: 3px solid red;
+  border-right: 0px solid red;
+  margin-right: 0px;
+  margin-left: 0px;
+  margin-top: 15px;
+  margin-bottom: 0px;
+  width: 478px;
+  height: 350px;
+}
+.video-6 {
+  float: right;
+  background-color: #000000;
+  border-top: 3px solid red;
+  border-left: 0px solid red;
+  border-bottom: 3px solid red;
+  border-right: 0px solid red;
+  margin-right: 0px;
+  margin-left: 0px;
+  margin-top: 15px;
+  margin-bottom: 0px;
+  width: 478px;
+  height: 350px;
+}
+.video-7 {
+  float:left;
+  background-color: #000000;
+  border-top: 3px solid red;
+  border-left: 1.5px solid red;
+  border-bottom: 3px solid red;
+  border-right: 3px solid red;
+  margin-right: 0px;
+  margin-left: 0px;
+  margin-top: 15px;
+  margin-bottom: 0px;
+  width: 957px;
+  height: 450px;
+}

@@ -1,0 +1,392 @@
+#fullpage{
+  margin:0 auto;
+  width:960px;
+  height:5762px;
+  border-radius: 12px;
+  border-top:5px solid red;
+  border-left:5px solid red;
+  border-right:5px solid red;
+  border-bottom:5px solid red;
+  background:#4578C5;
+}
+.cover{
+  border-bottom:2px solid red;
+}
+.nav{
+  width:960px;
+  height:147px;
+  margin-top:-4px;
+  margin-top:2px solid red;
+  background-color:#2CDE78;
+}
+.nav1{
+  border-top:0px solid red;
+  display:block;
+  overflow:hidden;
+  display:block;
+  float:left;
+}
+.head{
+  float:right;
+  margin-top:-10px;
+}
+.container-img{
+  float:right;
+  margin-top:-40px;
+  margin-bottom:40px;
+}
+.home-png{
+  border-top: 0px solid red;
+  border-right:3px solid red;
+  display:block;
+  overflow:hidden;
+  float:left;
+  margin-top:0px;
+  margin-right:100px;
+}
+.photo-png{
+  border-right:3px solid red;
+  display:block;
+  overflow:hidden;
+  float:left;
+  margin-top:0px;
+  margin-left:-100px;
+}
+.audio-png{
+  border-right:3px solid red;
+  display:block;
+  overflow:hidden;
+  float:left;
+  margin-top:0px;
+  margin-left:-0px;
+}
+.video-png{
+  border-right:3px solid red;
+  display:block;
+  overflow:hidden;
+  float:left;
+  margin-top:0px;
+  margin-left:0px;
+}
+.about-png{
+  border-right:3px solid red;
+  border-top: 0px solid red;
+  display:block;
+  overflow:hidden;
+  padding:0px;
+  float:left;
+  margin-top:0px;
+  margin-left:0px;
+}
+.contact-png{
+  padding-right:0px;
+  border-right:0px solid red;
+  margin-right:0px;
+  display:block;
+  float:right;
+  overflow:hidden;
+  margin-top:0px;
+  margin-left:0px;
+}
+.container-img{
+  vertical-align:center;
+  margin-top:-69px;
+  margin-bottom:4px;
+  border-top:2px solid red;
+  border-bottom:3px solid red;
+}
+
+
+.img1{
+  padding-right: 0px;
+  border-right: 0px solid red;
+  border-top:0px solid red;
+  border-left: 2px solid red;
+  border-bottom: 0px solid red;
+  margin-right: 0px;
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  display: block;
+  float: right;
+  overflow: hidden;
+  margin-top: 0px;
+  margin-left: 0px;
+  border-top: 0px solid red;
+}
+.img2{
+  padding-right: 0px;
+  border-right: 0px solid red;
+  margin-right: 0px;
+  display: block;
+  float: right;
+  overflow: hidden;
+  margin-top: 0px;
+  margin-left: 0px;
+  border-top: 0px solid red;
+}
+.img3{
+  padding-right: 0px;
+  border-left: 2px solid red;
+  margin-right: 0px;
+  display: block;
+  float: right;
+  overflow: hidden;
+  margin-top: 0px;
+  margin-left: 0px;
+  border-top: 2px solid red;
+}
+.img4{
+  padding-right: 0px;
+  border-right: 0px solid red;
+  margin-right: 0px;
+  display: block;
+  float: right;
+  overflow: hidden;
+  margin-top: 0px;
+  margin-left: 0px;
+  border-top: 2px solid red;
+}
+.img5{
+  padding-right: 0px;
+  border-left: 2px solid red;
+  margin-right: 0px;
+  display: block;
+  float: right;
+  overflow: hidden;
+  margin-top: 0px;
+  margin-left: 0px;
+  border-top: 2px solid red;
+}
+.img6{
+  padding-right: 0px;
+  border-right: 0px solid red;
+  margin-right: 0px;
+  display: block;
+  float: right;
+  overflow: hidden;
+  margin-top: 0px;
+  margin-left: 0px;
+  border-top: 2px solid red;
+}
+.img7{
+  padding-right: 0px;
+  border-left: 2px solid red;
+  margin-right: 0px;
+  display: block;
+  float: right;
+  overflow: hidden;
+  margin-top: 0px;
+  margin-left: 0px;
+  border-top: 2px solid red;
+}
+.img8{
+  padding-right: 0px;
+  border-right: 0px solid red;
+  margin-right: 0px;
+  display: block;
+  float: right;
+  overflow: hidden;
+  margin-top: 0px;
+  margin-left: 0px;
+  border-top: 2px solid red;
+}
+.img9 {
+  padding-right: 0px;
+  border-left: 2px solid red;
+  margin-right: 0px;
+  display: block;
+  float: right;
+  overflow: hidden;
+  margin-top: 0px;
+  margin-left: 0px;
+  border-top: 2px solid red;
+}
+.img10{
+  padding-right: 0px;
+  border-right: 0px solid red;
+  margin-right: 0px;
+  display: block;
+  float: right;
+  overflow: hidden;
+  margin-top: 0px;
+  margin-left: 0px;
+  border-top: 2px solid red;
+}
+.img11 {
+  padding-right: 0px;
+  border-left: 2px solid red;
+  margin-right: 0px;
+  display: block;
+  float: right;
+  overflow: hidden;
+  margin-top: 0px;
+  margin-left: 0px;
+  border-top: 2px solid red;
+}
+.img12 {
+  padding-right: 0px;
+  border-right: 0px solid red;
+  margin-right: 0px;
+  display: block;
+  float: right;
+  overflow: hidden;
+  margin-top: 0px;
+  margin-left: 0px;
+  border-top: 2px solid red;
+}
+.img13 {
+  padding-right: 0px;
+  border-left: 2px solid red;
+  margin-right: 0px;
+  display: block;
+  float: right;
+  overflow: hidden;
+  margin-top: 0px;
+  margin-left: 0px;
+  border-top: 2px solid red;
+}
+.img14 {
+  padding-right: 0px;
+  border-right: 0px solid red;
+  margin-right: 0px;
+  display: block;
+  float: right;
+  overflow: hidden;
+  margin-top: 0px;
+  margin-left: 0px;
+  border-top: 2px solid red;
+}
+.img15 {
+  padding-right: 0px;
+  border-left: 2px solid red;
+  margin-right: 0px;
+  display: block;
+  float: right;
+  overflow: hidden;
+  margin-top: 0px;
+  margin-left: 0px;
+  border-top: 2px solid red;
+}
+.img16 {
+  padding-right: 0px;
+  border-right: 0px solid red;
+  margin-right: 0px;
+  display: block;
+  float: right;
+  overflow: hidden;
+  margin-top: 0px;
+  margin-left: 0px;
+  border-top: 2px solid red;
+}
+.img17 {
+  padding-right: 0px;
+  border-left: 2px solid red;
+  margin-right: 0px;
+  display: block;
+  float: right;
+  overflow: hidden;
+  margin-top: 0px;
+  margin-left: 0px;
+  border-top: 2px solid red;
+}
+.img18 {
+  padding-right: 0px;
+  border-right: 0px solid red;
+  margin-right: 0px;
+  display: block;
+  float: right;
+  overflow: hidden;
+  margin-top: 0px;
+  margin-left: 0px;
+  border-top: 2px solid red;
+}
+.img19{
+  padding-right: 0px;
+  border-left: 2px solid red;
+  margin-right: 0px;
+  display: block;
+  float: right;
+  overflow: hidden;
+  margin-top: 0px;
+  margin-left: 0px;
+  border-top: 2px solid red;
+}
+.img20 {
+  padding-right: 0px;
+  border-right: 0px solid red;
+  margin-right: 0px;
+  display: block;
+  float: right;
+  overflow: hidden;
+  margin-top: 0px;
+  margin-left: 0px;
+  border-top: 2px solid red;
+}
+.img21 {
+  padding-right: 0px;
+  border-left: 2px solid red;
+  margin-right: 0px;
+  display: block;
+  float: right;
+  overflow: hidden;
+  margin-top: 0px;
+  margin-left: 0px;
+  border-top: 2px solid red;
+}
+.img22 {
+  padding-right: 0px;
+  border-right: 0px solid red;
+  margin-right: 0px;
+  display: block;
+  float: right;
+  overflow: hidden;
+  margin-top: 0px;
+  margin-left: 0px;
+  border-top: 2px solid red;
+}
+.img23 {
+  padding-right: 0px;
+  border-left: 2px solid red;
+  margin-right: 0px;
+  display: block;
+  float: right;
+  overflow: hidden;
+  margin-top: 0px;
+  margin-left: 0px;
+  border-top: 2px solid red;
+}
+.img24 {
+  padding-right: 0px;
+  border-right: 0px solid red;
+  margin-right: 0px;
+  display: block;
+  float: right;
+  overflow: hidden;
+  margin-top: 0px;
+  margin-left: 0px;
+  border-top: 2px solid red;
+}
+.img25 {
+  padding-left: 0px;
+  border-left: 2px solid red;
+  margin-right: 0px;
+  display: block;
+  float: right;
+  overflow: hidden;
+  margin-top: 0px;
+  margin-left: 0px;
+  border-top: 2px solid red;
+}
+.img26 {
+  padding-right: 0px;
+  border-top: 2px solid red;
+  margin-top:0px;
+  margin-right: 0px;
+  display: block;
+  float: right;
+  overflow: hidden;
+  margin-top: 0px;
+  margin-left: 0px;
+ 
+}

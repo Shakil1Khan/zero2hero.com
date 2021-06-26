@@ -1,0 +1,721 @@
+#fullpage{
+  margin:0 auto;
+  width:960px;
+  height:4000px;
+  border-radius: 12px;
+  border-top:5px solid red;
+  border-left:5px solid red;
+  border-right:5px solid red;
+  border-bottom:5px solid red;
+  background:#8463D9;
+}
+.web-cover{
+  border-bottom:2px solid red;
+}
+.nav{
+  width:960px;
+  height:90px;
+  margin-top:-8px;
+  margin-top:2px solid red;
+  background-color:#63D988;
+}
+.nav1{
+  width:960px;
+  height:90px;
+  margin-top: 0px;
+  margin-bottom:0px;
+  border-top:0px solid red;
+  display:block;
+  overflow:hidden;
+  display:block;
+  float:left;
+}
+.web-home{
+  border-top: 0px solid red;
+  border-right:3px solid red;
+  display:block;
+  overflow:hidden;
+  float:left;
+  margin-top:0px;
+  margin-right:100px;
+}
+.web-photo{
+  border-right:3px solid red;
+  display:block;
+  overflow:hidden;
+  float:left;
+  margin-top:0px;
+  margin-left:-100px;
+}
+.web-audio{
+  border-right:3px solid red;
+  display:block;
+  overflow:hidden;
+  float:left;
+  margin-top:0px;
+  margin-left:-0px;
+}
+.web-video{
+  border-right:3px solid red;
+  display:block;
+  overflow:hidden;
+  float:left;
+  margin-top:0px;
+  margin-left:0px;
+}
+.web-about{
+  border-right:3px solid red;
+  border-top: 0px solid red;
+  display:block;
+  overflow:hidden;
+  padding:0px;
+  float:left;
+  margin-top:0px;
+  margin-left:0px;
+}
+.web-web{
+  padding-right:0px;
+  border-left:0px solid red;
+  border-bottom:3px solid red;
+  margin-right:0px;
+  display:block;
+  float:right;
+  overflow:hidden;
+  margin-top:0px;
+  margin-left:0px;
+}
+.container{
+  color:#D57B16;
+  width:960px;
+  height:400px;
+}
+.container1{
+  width:637px;
+  height:400px;
+  color:#D9D063;
+  margin-top:0px;
+  margin-bottom:0px;
+  border-top:3px solid red;
+  border-right:3px solid red;
+  border-bottom:3px solid red;
+}
+.container2{
+  float:right;
+  width:320px;
+  height:400px;
+  background:#6DDAE9;
+  margin-top:-406px;
+  margin-bottom:0px;
+  border-top:3px solid red;
+  border-left:2px solid red;
+  border-bottom:3px solid red;
+}
+.container2 h3{
+  margin-top: 8px;
+  color:#1613E3;
+  text-align: center;
+  font-size: 30px;
+  font-family:arial ;
+  font-weight: bold;
+}
+.container2 h5 {
+  margin-top: -30px;
+  color: #BA13E3;
+  text-align: center;
+  font-size: 18px;
+  font-family:arial ;
+  font-weight: bold;
+}
+.container2 p{
+    margin-top: 40px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 0px;
+    color: #E3133A;
+    text-align: left;
+    font-size: 21px;
+    font-style: italic;
+    font-family:arial ;
+    font-weight: bold;
+  }
+
+.allblog{
+  float:left;
+  width:960px;
+  height:3050px;
+  background:#9E9999;
+}
+
+
+.tittle-allblog{
+  margin-top: -33px;
+  width:960px;
+  height:95px;
+  background:#A687E985;
+  border-bottom: 2px solid red;
+}
+.tittle-allblog h2{
+  text-align: center;
+  font-size: 40px;
+  font-weight:bold;
+  font-family:arial;
+  color: #BBED05;
+  
+}
+
+.tittle-allblog p{
+  margin-top: -25px;
+  text-align: center;
+  font-size: 28px;
+  font-weight:bold;
+  font-family:arial;
+  color: #4BFF3DAB;
+  padding: 2px;
+  border-top: 1px solid red;
+}
+
+
+
+.html1{
+  font-family: arial;
+  margin-top: -50px;
+  text-align: center;
+  width:960px;
+  height:1170px;
+  background:#9EDED9;
+  border-bottom: 0px solid red;
+}
+.html1 h3{
+  padding-top: 15px;
+  font-size: 50px;
+}
+
+.html1 p{
+  text-align: center;
+  font-size: 25px;
+  margin-top: -45px;
+  margin-left: 20px;
+  margin-right:20px;
+}
+
+
+
+.css2{
+  font-family: arial;
+  float:right;
+  width:960px;
+  height:850px;
+  margin-left:0px;
+  margin-right:-20px;
+  margin-top:60px;
+  background:#881F1F;
+  border-bottom: 0px solid red;
+}
+.css2 h3{
+  color:#7FE379;
+  margin-top:15px;
+}
+
+.css2 p{
+  color:#47C83F;
+  text-align: center;
+  font-size: 25px;
+  margin-top: -50px;
+  margin-left: 20px;
+  margin-right:20px;
+}
+
+
+
+.bootstrap3{
+  font-family: arial;
+  float:right;
+  text-align: center;
+  width:960px;
+  height:590px;
+  background:#1C8836;
+  border-bottom: 0px solid red;
+  margin-top: -12px;
+  margin-right: -20px;
+}
+.bootstrap3 h3{
+  color:#F5E732;
+  margin-top:10px;
+}
+
+.bootstrap3 p{
+  color:#F5E532;
+  text-align: center;
+  font-size: 25px;
+  margin-top: -50px;
+  margin-left: 20px;
+  margin-right:20px;
+}
+
+
+
+.javascript4{
+  font-family: arial;
+  float:right;
+  text-align: center;
+  width:960px;
+  height:775px;
+  background:#66A45D;
+ margin-top: -12px;
+ margin-right:-20px;
+}
+.javascript4 h3{
+  margin-top: 10px;
+}
+
+.javascript4 p{
+  text-align: center;
+  font-size: 25px;
+  margin-top: -30px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+
+/**
+Next Time Develop
+
+
+.reactjs5{
+ font-family: arial;
+ float:right;
+ text-align: center;
+ width:960px;
+ height:820px;
+ background:#AC7C4B;
+ margin-top: -12px;
+ margin-right:-20px;
+}
+.reactjs5 h3{
+}
+
+.reactjs5 p{
+  text-align: center;
+  font-size: 25px;
+  margin-top: 0px;
+  margin-left: 20px;
+  margin-right:20px;
+}
+
+
+
+.nodejs6{
+  font-family: arial;
+  float:right;
+  text-align: center;
+  width:960px;
+  height:820px;
+  background:#C67772;
+  margin-top: -12px;
+  margin-right:-20px;
+}
+.nodejs6 h3{
+}
+
+.nodejs6 p{
+  text-align: center;
+  font-size: 25px;
+  margin-top: 0px;
+  margin-left: 20px;
+  margin-right:20px;
+}
+
+
+
+.jquery7{
+  font-family: arial;
+  float:right;
+  text-align: center;
+  width:960px;
+  height:820px;
+  background:#8D38E7;
+  margin-top: -12px;
+  margin-right:-20px;
+}
+.jquery7 h3{
+}
+
+.jquery7 p{
+  text-align: center;
+  font-size: 25px;
+  margin-top: 0px;
+  margin-left: 20px;
+  margin-right:20px;
+}
+
+
+
+.ajax8{
+  font-family: arial;
+  float:right;
+  text-align: center;
+  width:960px;
+  height:820px;
+  background:#38E7D2;
+  margin-top: -12px;
+  margin-right:-20px;
+}
+.ajax8 h3{
+}
+
+.ajax8 p{
+  text-align: center;
+  font-size: 25px;
+  margin-top: 0px;
+  margin-left: 20px;
+  margin-right:20px;
+}
+
+
+
+.wordpress9{
+  font-family: arial;
+  float:right;
+  text-align: center;
+  width:960px;
+  height:820px;
+  background:#3867E7;
+  margin-top: -12px;
+  margin-right:-20px;
+}
+.wordpress9 h3{
+}
+
+.wordpress9 p{
+  text-align: center;
+  font-size: 25px;
+  margin-top: 0px;
+  margin-left: 20px;
+  margin-right:20px;
+}
+
+
+
+.photoshop10{
+  font-family: arial;
+  float:right;
+  text-align: center;
+  width:960px;
+  height:820px;
+  background:#E75E38;
+  margin-top: -12px;
+  margin-right:-20px;
+}
+.photoshop10 h3{
+}
+
+.photoshop10 p{
+  text-align: center;
+  font-size: 25px;
+  margin-top: 0px;
+  margin-left: 20px;
+  margin-right:20px;
+}
+
+
+
+.autocad11{
+  font-family: arial;
+  float:right;
+  text-align: center;
+  width:960px;
+  height:820px;
+  background:#A88153;
+  margin-top: -12px;
+  margin-right:-20px;
+}
+.autocad11 h3{
+}
+
+.autocad11 p{
+  text-align: center;
+  font-size: 25px;
+  margin-top: 0px;
+  margin-left: 20px;
+  margin-right:20px;
+}
+
+
+
+.mysql12{
+  font-family: arial;
+  float:right;
+  text-align: center;
+  width:960px;
+  height:820px;
+  background:#9BC667;
+  margin-top: -12px;
+  margin-right:-20px;
+}
+.mysql12 h3{
+}
+
+.mysql12 p{
+  text-align: center;
+  font-size: 25px;
+  margin-top: 0px;
+  margin-left: 20px;
+  margin-right:20px;
+}
+
+
+
+.mongodb13{
+  font-family: arial;
+  float:right;
+  text-align: center;
+  width:960px;
+  height:820px;
+  background:#67C6B5;
+  margin-top: -12px;
+  margin-right:-20px;
+}
+.mongodb13 h3{
+}
+
+.mongodb13 p{
+  text-align: center;
+  font-size: 25px;
+  margin-top: 0px;
+  margin-left: 20px;
+  margin-right:20px;
+}
+
+
+
+.asp14{
+  font-family: arial;
+  float:right;
+  text-align: center;
+  width:960px;
+  height:820px;
+  background:#6795C6;
+  margin-top: -12px;
+  margin-right:-20px;
+}
+.apps h3{
+}
+
+.asp14 p{
+  text-align: center;
+  font-size: 25px;
+  margin-top: 0px;
+  margin-left: 20px;
+  margin-right:20px;
+}
+
+
+
+.php15{
+  font-family: arial;
+  float:right;
+  text-align: center;
+  width:960px;
+  height:820px;
+  background:#7C67C6;
+  margin-top: -12px;
+  margin-right:-20px;
+}
+.php15 h3{
+}
+
+.php15 p{
+  text-align: center;
+  font-size: 25px;
+  margin-top: 0px;
+  margin-left: 20px;
+  margin-right:20px;
+}
+
+
+
+.laravel16{
+  font-family: arial;
+  float:right;
+  text-align: center;
+  width:960px;
+  height:820px;
+  background:#A7539E;
+  margin-top: -12px;
+  margin-right:-20px;
+}
+.laravel16 h3{
+}
+
+.laravel16 p{
+  text-align: center;
+  font-size: 25px;
+  margin-top: 0px;
+  margin-left: 20px;
+  margin-right:20px;
+}
+
+
+
+.python17{
+  font-family: arial;
+  float:right;
+  text-align: center;
+  width:960px;
+  height:820px;
+  background:#9F410C;
+  margin-top: -12px;
+  margin-right:-20px;
+}
+.python17 h3{
+}
+
+.python17 p{
+  text-align: center;
+  font-size: 25px;
+  margin-top: 0px;
+  margin-left: 20px;
+  margin-right:20px;
+}
+
+
+
+.django18{
+  font-family: arial;
+  float:right;
+  text-align: center;
+  width:960px;
+  height:820px;
+  background:#7086D2;
+  margin-top: -12px;
+  margin-right:-20px;
+}
+.django18 h3{
+}
+
+.django18 p{
+  text-align: center;
+  font-size: 25px;
+  margin-top: 0px;
+  margin-left: 20px;
+  margin-right:20px;
+}
+
+
+
+.seo19{
+  font-family: arial;
+  float:right;
+  text-align: center;
+  width:960px;
+  height:820px;
+  background:#67BBAE;
+  margin-top: -12px;
+  margin-right:-20px;
+}
+.seo19 h3{
+}
+
+.seo19 p{
+  text-align: center;
+  font-size: 25px;
+  margin-top: 0px;
+  margin-left: 20px;
+  margin-right:20px;
+}
+
+
+
+.apps{
+  float:right;
+  text-align: center;
+  width:960px;
+  height:50px;
+  background:#3F3648;
+  border-bottom: 0px solid red;
+}
+.apps h3{
+}
+
+.apps p{
+  text-align: center;
+  font-size: 25px;
+  margin-top: 0px;
+  margin-left: 20px;
+  margin-right:20px;
+}
+
+
+
+.java21{
+  font-family: arial;
+  float:right;
+  text-align: center;
+  width:960px;
+  height:820px;
+  background:#A785C7;
+  margin-top: -12px;
+  margin-right:-20px;
+}
+.java21 h3{
+}
+
+.java21 p{
+  text-align: center;
+  font-size: 25px;
+  margin-top: 0px;
+  margin-left: 20px;
+  margin-right:20px;
+}
+
+
+
+.flutter22{
+  font-family: arial;
+  float:right;
+  text-align: center;
+  width:960px;
+  height:820px;
+  background:#C79C85;
+  margin-top: -12px;
+  margin-right:-20px;
+}
+.flutter22 h3{
+}
+
+.flutter22 p{
+  text-align: center;
+  font-size: 25px;
+  margin-top: 0px;
+  margin-left: 20px;
+  margin-right:20px;
+}
+
+.androidstudio23{
+  font-family: arial;
+  float:right;
+  text-align: center;
+  width:960px;
+  height:820px;
+  background:#89BAD0;
+  margin-top: -12px;
+  margin-right:-20px;
+}
+.androidstudio23 h3{
+}
+
+.androidstudio23 p{
+  text-align: center;
+  font-size: 25px;
+  margin-top: 0px;
+  margin-left: 20px;
+  margin-right:20px;
+}
+**/
+.last-pg{
+  text-align: center;
+  font-family: arial;
+  font-weight: bold;
+  font-size:0px;
+  color:#64B313;
+}
